@@ -1,2 +1,2 @@
-# laks2097.github.second.io
+# laks2097.github.io
 website_sastagram
